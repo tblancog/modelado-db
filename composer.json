@@ -1,0 +1,7 @@
+{
+    "name": "root/modelado-db",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    }
+}
