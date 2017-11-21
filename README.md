@@ -5,7 +5,7 @@ donde se realizan algunas operaciones conexión, selección, consulta y carga de
 datos de prueba.
 Además, se crearon pruebas unitarias que buscaban probar el funcionamiento requerido.
 
-## Installación
+## Instalación
 1. Clonar repositorio via https.
 ```bash
 https://github.com/tblancog/modelado-db.git
